@@ -15,6 +15,8 @@
 
 </div>
 
+---
+
 ## 🎯 What is Paper2Slides?
 
 Turns your **research papers**, **reports**, and **documents** into **professional slides & posters** in **minutes**.
